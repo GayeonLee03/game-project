@@ -1,5 +1,5 @@
 package com.oop.game.example
-
+//내가 보여?
 import com.badlogic.gdx.Gdx
 import com.badlogic.gdx.graphics.Texture
 import com.badlogic.gdx.graphics.g2d.SpriteBatch
